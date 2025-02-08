@@ -31,7 +31,7 @@ asdf-astropy @ file:///home/conda/feedstock_root/build_artifacts/asdf-astropy_17
 asdf_coordinates_schemas @ file:///home/conda/feedstock_root/build_artifacts/asdf-coordinates-schemas_1709998874802/work
 asdf_standard @ file:///home/conda/feedstock_root/build_artifacts/asdf-standard_1709756268387/work
 asdf_transform_schemas @ file:///home/conda/feedstock_root/build_artifacts/asdf-transform-schemas_1709926179786/work
-asteval==0.9.33
+asteval==1.0.6
 astroid @ file:///croot/astroid_1725385395289/work
 astroML @ file:///home/conda/feedstock_root/build_artifacts/astroml_1732733469814/work
 astropy @ file:///home/conda/feedstock_root/build_artifacts/astropy_1711552966528/work
@@ -279,7 +279,7 @@ jupyterlab_github==4.0.0
 jupyterlab_server==2.27.2
 kaggle==1.6.17
 kaleido @ file:///croot/python-kaleido_1689925312296/work
-keras==3.5.0
+keras==3.8.0
 keras-nightly==3.6.0.dev2024092603
 Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
 keras-tuner==1.4.7
@@ -356,7 +356,7 @@ nest-asyncio @ file:///croot/nest-asyncio_1708532673751/work
 networkx @ file:///croot/networkx_1717597493534/work
 nltk @ file:///croot/nltk_1724427688180/work
 nose @ file:///opt/conda/conda-bld/nose_1642704612149/work
-notebook==7.2.1
+notebook==7.2.2
 notebook_shim @ file:///croot/notebook-shim_1699455894279/work
 numba @ file:///home/conda/feedstock_root/build_artifacts/numba_1718888028049/work
 numexpr @ file:///croot/numexpr_1730215937391/work
@@ -480,7 +480,7 @@ python-json-logger @ file:///croot/python-json-logger_1683823803357/work
 python-lsp-black @ file:///croot/python-lsp-black_1709232897954/work
 python-lsp-jsonrpc @ file:///croot/python-lsp-jsonrpc_1708962872556/work
 python-lsp-server @ file:///croot/python-lsp-server_1726696845279/work
-python-multipart==0.0.17
+python-multipart==0.0.18
 python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
 python-snappy @ file:///croot/python-snappy_1670943913523/work
 pytils==0.4.1
@@ -658,7 +658,7 @@ webcolors==24.8.0
 webencodings==0.5.1
 websocket-client @ file:///croot/websocket-client_1715878298792/work
 websockets @ file:///home/conda/feedstock_root/build_artifacts/websockets_1731498624258/work
-Werkzeug==3.0.4
+Werkzeug==3.0.6
 whatthepatch @ file:///opt/conda/conda-bld/whatthepatch_1661795988879/work
 widgetsnbextension @ file:///croot/widgetsnbextension_1710960037596/work
 wordcloud @ file:///croot/wordcloud_1712281864861/work
