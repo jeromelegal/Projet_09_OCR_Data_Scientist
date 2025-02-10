@@ -9,6 +9,8 @@ __pycache__/
 # Distribution / packaging
 notebooks/P8_Mode_opératoire/img/
 data/
+S3_content/
+ssh/
 .Python
 build/
 develop-eggs/
